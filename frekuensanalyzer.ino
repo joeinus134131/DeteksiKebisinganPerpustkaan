@@ -1,5 +1,5 @@
 //progr am untuk pendeteksi kebisingan 
-//edited by : Corpselily
+//edited by : IDNmakerspace Algorithm Factory
 
 #include <FreqMeasure.h>
 
